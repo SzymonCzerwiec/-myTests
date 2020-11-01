@@ -1,6 +1,6 @@
-package com.example.tests;//comment
+package com.example.tests;
 
-import static org.junit.Assert.fail; //comment v2
+import static org.junit.Assert.fail; 
 
 import java.util.concurrent.TimeUnit;
 
