@@ -1,4 +1,4 @@
-package com.example.tests;//potato
+package com.example.tests;//Im good at Git xD
 
 import static org.junit.Assert.fail; 
 
