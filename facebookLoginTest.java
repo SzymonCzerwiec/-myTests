@@ -1,4 +1,4 @@
-package com.example.tests;
+package com.example.tests;//comment
 
 import static org.junit.Assert.fail;
 
@@ -87,7 +87,7 @@ public class plackiv2 {
       if (acceptNextAlert) {
         alert.accept();
       } else {
-        alert.dismiss();
+        alert.dismiss(); 
       }
       return alertText;
     } finally {
