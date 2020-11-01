@@ -87,7 +87,7 @@ public class plackiv2 {
       if (acceptNextAlert) {
         alert.accept();
       } else {
-        alert.dismiss();
+        alert.dismiss(); //comment
       }
       return alertText;
     } finally {
