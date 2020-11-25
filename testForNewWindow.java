@@ -87,7 +87,7 @@ public class testForNewWindow extends AbstractChromeWebDriverTest {
 	driver.close();
 	driver.switchTo().window(secondWindowHandle);
 	System.out.println(driver.getCurrentUrl());//forms
-
+//just making some changes dont mind me
 	
 }
 }
