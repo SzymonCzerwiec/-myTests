@@ -1,6 +1,10 @@
-___moireshiiiettt---
-
-<dependencies>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.in28minutes</groupId>
+  <artifactId>WebDriver-5-Page-Objects-Model</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  		 <dependencies>
 
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
@@ -30,17 +34,7 @@ ___moireshiiiettt---
       <version>6.14.3</version>
       <scope>test</scope>
     </dependency>
-
+    
   </dependencies>
   
-  
-<<<<<<< HEAD
-  
-<<<<<<< HEAD
-
-=======
-  <-- To tylko text -->
-=======
-  ----------------------
->>>>>>> bb622a71ec5e8d75f01472d6466b06de59010f7c
->>>>>>> side
+</project>
