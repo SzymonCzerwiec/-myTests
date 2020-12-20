@@ -1,4 +1,4 @@
-package com.in28minutes.webDriver.scenarios;// cwicze sobie tutaj, teraz hjeszcze dopisze to i zmerguje
+package com.in28minutes.webDriver.scenarios;
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
