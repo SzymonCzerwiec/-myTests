@@ -1,4 +1,4 @@
-package com.in28minutes.webDriver.scenarios; 
+package com.in28minutes.webDriver.scenarios; //DZIAL CZY NIE DZIALA HALOOO?
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
