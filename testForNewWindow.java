@@ -1,4 +1,4 @@
-package com.in28minutes.webDriver.scenarios;
+package com.in28minutes.webDriver.scenarios; //odswiezam gita znowu
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
